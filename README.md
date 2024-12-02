@@ -7,7 +7,7 @@
 
 # Flowchart 
 
-# Diagran Class
+# Diagram Class
 ![IMG-20241202-WA0009](https://github.com/user-attachments/assets/b61d090d-7c58-47ee-8e81-ee03490bbb39)
 
 

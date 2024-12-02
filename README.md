@@ -8,7 +8,7 @@
 # Flowchart 
 
 # Diagran Class
-![IMG-20241202-WA0008](https://github.com/user-attachments/assets/32ea0cfb-a6cf-4be1-a7e3-5eefdb8344a2)
+![IMG-20241202-WA0009](https://github.com/user-attachments/assets/b61d090d-7c58-47ee-8e81-ee03490bbb39)
 
 
 # Tugas Praktikum 

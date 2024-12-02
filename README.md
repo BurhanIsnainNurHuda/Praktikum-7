@@ -7,6 +7,9 @@
 
 # Flowchart 
 
+# Diagran Class
+![IMG-20241202-WA0008](https://github.com/user-attachments/assets/32ea0cfb-a6cf-4be1-a7e3-5eefdb8344a2)
+
 
 # Tugas Praktikum 
 Buat program sederhana dengan mengaplikasikan penggunaan class. Buatlah 

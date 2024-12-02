@@ -6,6 +6,8 @@
     Mata Kuliah: Bahasa Pemograman
 
 # Flowchart 
+![IMG-20241202-WA0060](https://github.com/user-attachments/assets/c7f49825-9a19-41d1-85f7-e2cbc3d5b1ca)
+
 
 # Diagram Class
 ![IMG-20241202-WA0009](https://github.com/user-attachments/assets/b61d090d-7c58-47ee-8e81-ee03490bbb39)
@@ -41,7 +43,7 @@ README.md.
 
        `DaftarNilaiMahasiswa`
 
-- Class ini berfungsi untuk menyimpan dan mengelola data mahasiswa, termasuk nama dan nilai mereka.
+- Class ini berfungsi untuk menyimpan dan mengelola data mahasiswa, termasuk nama dan nilai mahasiswa.
 
 -Menggunakan dictionary `self.mahasiswa` untuk menyimpan data mahasiswa, di mana nama mahasiswa menjadi key dan nilai menjadi value.
 

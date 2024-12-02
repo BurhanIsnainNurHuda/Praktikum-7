@@ -76,4 +76,9 @@ README.md.
 
 - Program ini dimulai dengan membuat instance dari class `DaftarNilaiMahasiswa`.
 - Data mahasiswa ditambahkan, ditampilkan, diubah, dan dihapus sesuai dengan metode yang telah didefinisikan.
+
 # Input & Output 
+![IMG_20241202_132325](https://github.com/user-attachments/assets/a90196c6-1e1f-4361-8c8c-96f8c87714ac)
+![IMG_20241202_132432](https://github.com/user-attachments/assets/a4d19609-8a07-418c-97da-bb370a8a7435)
+![IMG_20241202_132459](https://github.com/user-attachments/assets/cfb52753-fc23-4237-ba09-424d17c7dc2d)
+
